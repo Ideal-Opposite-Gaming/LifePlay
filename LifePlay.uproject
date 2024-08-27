@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.20",
+	"EngineAssociation": "{60F4A457-4DB5-6279-091D-F7B19C8FCBFB}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -23,6 +23,11 @@
 			"Name": "MultiTask",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e26b2793e714ceab7cb53d9641bfa2d"
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
 		}
 	],
 	"TargetPlatforms": [
